@@ -5,14 +5,18 @@ Buy weapons and battle with other Bro NFTs.
 
 Deployed smart contract on NeoX testnet : https://xt4scan.ngd.network/address/0x0Cad79e1699B3422E49344Fe69c3d814771CF443
 
-## Welcome to BRO💪FIGHTS Homepage
+## Welcome to BRO💪FIGHTS 
+## Homepage
 
+![Screenshot_5-10-2024_15852_localhost](https://github.com/user-attachments/assets/9acd3311-8c5a-4ca6-8fe7-4f7cfb6ebafb)
 
 ## Marketplace page
 
+![Screenshot_5-10-2024_1599_localhost](https://github.com/user-attachments/assets/7f058399-02f8-4105-a19f-bb44fab6c2a0)
 
 ## Game Play page
 
+![Screenshot_5-10-2024_151052_localhost](https://github.com/user-attachments/assets/ea8e1061-4397-4787-8a6b-7e374d5e94c3)
 
 ## Requirements
 
