@@ -3,6 +3,8 @@ Buy weapons and battle with other Bro NFTs.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript. Deployed on Neox Testnet
 
+BRO💪FIGHTS, an on-chain NFT game where you can mint bro NFTs, weapons and engage in battles with other Bro NFT players. The game uses ERC6551, enabling your Bro NFTs to possess weapons as power-ups.
+
 Deployed smart contract on NeoX testnet : https://xt4scan.ngd.network/address/0x0Cad79e1699B3422E49344Fe69c3d814771CF443
 
 ## Welcome to BRO💪FIGHTS 
