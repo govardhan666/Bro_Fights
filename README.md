@@ -1,4 +1,4 @@
-# BRO💪FIGHTS
+# NEO💪FIGHTS
 Buy weapons and battle with other Bro NFTs.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript. Deployed on Neox Testnet
